@@ -13,17 +13,16 @@ The BL2MP test set, designed to assess the grammatical knowledge of language Mod
 
 We employed three corpora of different sizes (5M, 25M, 125M) in our experiments, and we share it in its raw and lemmatized versions:
 
-Raw versions
+Raw versions:
 [5M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M.txt), 
 [25M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_25M.txt), 
 [125M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_125M.txt)
 
-[5M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M_lemma.txt), 
+Lemmatized versions: [5M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M_lemma.txt), 
 [25M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_25M_lemma.txt), 
 [125M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_125M_lemma.txt)
 
-MLM validation dataset:
-
+MLM validation datasets:
 [MLM_val](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_argia_test.txt), 
 [MLM_val_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_argia_test_lemma.txt)
 
