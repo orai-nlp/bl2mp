@@ -54,7 +54,7 @@ We also share the models trained with the lemmatized version:
 
 ## Evaluation Script usage:
 
-We used [minicons](https://github.com/kanishkamisra/minicons) to evaluate (0-shot) our MLMs on BL2MP, which uses Salazar et al. (2020) to score sentences.
+We used [minicons](https://github.com/kanishkamisra/minicons) to evaluate (0-shot) our MLMs on BL2MP, which uses [Salazar et al. (2020)](https://www.aclweb.org/anthology/2020.acl-main.240.pdf) to score sentences.
 
 It can be installed with pip:
 
