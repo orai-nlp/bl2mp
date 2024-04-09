@@ -28,7 +28,23 @@ MLM validation datasets:
 
 ## Models
 
-Coming next...
+[bert_mini_eu_5M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_mini_eu_5M_ckpt-409600.tar.xz),
+[bert_mini_eu_25M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_mini_eu_25M_ckpt-512000.tar.xz),
+[bert_mini_eu_125M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_mini_eu_125M_ckpt-640000.tar.xz)
+
+[bert_medium_eu_5M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_5M_ckpt-51200.tar.xz),
+[bert_medium_eu_25M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_25M_ckpt-256000.tar.xz),
+[bert_medium_eu_125M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_125M_ckpt-640000.tar.xz)
+
+[bert_base_eu_5M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_base_eu_5M_ckpt-51200.tar.xz),
+[bert_base_eu_25M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_base_eu_25M_ckpt-128000.tar.xz),
+[bert_base_eu_125M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_base_eu_125M_ckpt-640000.tar.xz)
+
+[bert_medium_eu_5M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_5M_lemma_ckpt-51200.tar.xz),
+[bert_medium_eu_25M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_25M_lemma_ckpt-512000.tar.xz),
+[bert_medium_eu_125M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_medium_eu_125M_lemma_ckpt-640000.tar.xz)
+
+
 
 ## Evaluation Script usage:
 
