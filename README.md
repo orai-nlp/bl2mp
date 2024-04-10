@@ -11,14 +11,15 @@ We introduce BL2MP (Basque L2 student-based Minimal Pairs), designed to assess t
 
 ## Pretraining corpora:
 
-We employed three corpora of different sizes (5M, 25M, 125M) in our experiments, and we share it in its raw and lemmatized versions:
+We employed three corpora of different sizes (5M, 25M, 125M) in our experiments:
 
-Raw versions:
 [5M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M.txt), 
 [25M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_25M.txt), 
 [125M](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_125M.txt)
 
-Lemmatized versions: [5M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M_lemma.txt), 
+We also share the lemmatized counterparts: 
+
+[5M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_5M_lemma.txt), 
 [25M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_25M_lemma.txt), 
 [125M_lemma](https://storage.googleapis.com/orai-nlp/bl2mp/corpora/eu_125M_lemma.txt)
 
@@ -30,7 +31,7 @@ MLM validation datasets:
 
 We trained 3 BERT models of different sizes, namely mini, medium and base (with 4L, 8L and 12L respectively) with each corpus.
 
-We share the best performing checkpoints for each model:
+Here we share the best performing checkpoint for each model:
 
 [bert_mini_eu_5M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_mini_eu_5M_ckpt-409600.tar.xz),
 [bert_mini_eu_25M](https://storage.googleapis.com/orai-nlp/bl2mp/models/bert_mini_eu_25M_ckpt-512000.tar.xz),
@@ -75,7 +76,7 @@ Authors
 -----------
 Gorka Urbizu [1] [2], Muitze Zulaika [1], Xabier Saralegi [1], Ander Corral [1]
 
-Affiliation of the authors: 
+Affiliations: 
 
 [1] Orai NLP Technologies
 
