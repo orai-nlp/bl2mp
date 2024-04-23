@@ -100,7 +100,7 @@ Acknowledgements
 -------------------
 If you use these corpora, datasets or models please cite the following paper:
 
-- G. Urbizu, M. Zulaika, X. Saralegi, A. Corral. How Well Can BERT Learn the Grammar of an Agglutinative and Flexible-Order Language? The Case of Basque. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING2024). May, 2024. Torino, Italia
+- G. Urbizu, M. Zulaika, X. Saralegi, A. Corral. How Well Can BERT Learn the Grammar of an Agglutinative and Flexible-Order Language? The Case of Basque. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING2024). May, 2024. Torino, Italy
 
 
 
