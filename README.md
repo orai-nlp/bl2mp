@@ -67,7 +67,7 @@ pip install minicons
 And the we evaluate a MLMs as follows:
 
 ```
-python3 mlm-score.py  --input bl2mpjsonl --output_dir output/ --lm orai-nlp/ElhBERTeu-medium --device cuda:0
+python3 mlm-score.py  --input bl2mp.jsonl --output_dir output/ --lm orai-nlp/ElhBERTeu-medium --device cuda:0
 ```
 
 There are different versions of the dataset and evaluation script, created for different experiments, but all of them use the same call to minicons, and differ only in reading the input data, and the conditions set to filter minimal-pairs to compute the final accuracy score.
